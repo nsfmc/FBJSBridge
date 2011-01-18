@@ -77,6 +77,6 @@ Talk about circuitous!
 ## Building
 
 You can build this swf by running the following, provided you have installed `mxmlc`
-    mxmlc -o=FBJSBridge.swf -file-specs=FBJSBridge.as
+    mxmlc -o=build/FBJSBridge.swf -file-specs=FBJSBridge.as
 
 However, the swf committed in this repo should work 'out of the box.'
