@@ -1,5 +1,3 @@
-# FBJSBridge.as
-
 ## What it is
 
 FBJSBridge provides a proxy for old (and difficult to maintain) swfs that routed ExternalInterface calls through facebook's, now deprecated, fbjs-bridge. This allows you to migrate your fbml flash-enabled app to iframes while only making one small change to your javascript functions.
